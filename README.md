@@ -1,4 +1,4 @@
-##👋 Hi, I'm Tone Nordström!    
+👋 Hi, I'm Tone Nordström!    
 
 🔭 I'm a curious and solution-driven .NET developer who loves diving deep into code and figuring out how things really work.  
 ❤️‍🔥 Backend is my happy place (C#, .NET, SQL/T-SQL, Azure), but I also have experience with frontend and enjoy fullstack when needed.    
