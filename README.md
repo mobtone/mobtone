@@ -1,6 +1,6 @@
 <div align="center">
   
-![Dina GitHub-statistik](https://github-readme-stats.vercel.app/api?username=mobtone&show_icons=true&theme=dark)
+![mobtone's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mobtone&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 Hi, I'm Tone Nordström!    
