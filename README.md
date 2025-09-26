@@ -1,3 +1,5 @@
+![Dina GitHub-statistik](https://github-readme-stats.vercel.app/api?username=DITT-ANVANDARNAMN&show_icons=true&theme=dark)
+
 Hi, I'm Tone Nordström!    
 
 I'm a curious and solution-driven .NET developer who loves diving deep into code and figuring out how things really work.  
