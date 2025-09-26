@@ -1,7 +1,6 @@
 <div align="center">
   
-![mobtone's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mobtone&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
+![mobtone's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mobtone&theme=dark&show_icons=true&hide_border=false&layout=compact)
 </div>
 Hi, I'm Tone Nordström!    
 
