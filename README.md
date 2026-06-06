@@ -1,7 +1,9 @@
 <div align="center">
-  
+
 ![mobtone's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mobtone&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
 </div>
+
 Hi, I'm Tone!    
 
 I'm a curious and solution-driven .NET developer specialized in Cloud and DevOps.
