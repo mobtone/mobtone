@@ -2,7 +2,7 @@
   
 ![mobtone's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mobtone&theme=dark&show_icons=true&hide_border=false&layout=compact)
 </div>
-Hi, I'm Tone Nordström!    
+Hi, I'm Tone!    
 
 I'm a curious and solution-driven .NET developer specialized in Cloud and DevOps.
 If I had to choose my most eager-to-learn subjects at the moment, it would be **virtualization**, **containers** and **encryption techniques**.
